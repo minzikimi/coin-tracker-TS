@@ -9,7 +9,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.tsx</code> and save to reload.
-        </p>
+        </p><h1>hi</h1>
         <a
           className="App-link"
           href="https://reactjs.org"
